@@ -1,9 +1,7 @@
-6-axis arm for proof of concept (Mk1)
-
-The robot is an enabler to develop competencies in mechatronics and programming. 
+6-axis arm for proof of concept. The robot is an enabler to develop competencies in mechatronics and programming. 
 Very small with low payload; the model will be scalable once software is ready.
 
-Mk2 will be entirely bespoke, primarily constructed using 3D-printe components. Steppers will be replaced with brushless DC motors; higher speeds will permit use of transmission for increased torque and low/zero backlash.
+Mk2 frame will be entirely bespoke, primarily constructed using 3D-printed components. Steppers will be replaced with brushless DC motors; higher speeds will permit use of transmission for increased torque and low/zero backlash.
 
 Construction
 - Main links constructed with standard LEGO technix parts and connections
