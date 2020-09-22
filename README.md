@@ -6,7 +6,7 @@ Mk2 frame will be entirely bespoke, primarily constructed using 3D-printed compo
 Construction
 - Main links constructed with standard LEGO technix parts and connections
 - Motor mounts are bespoke designs and 3D-printed to fit
-- Transmission is uing 2GT belts, standard LEGO Technic gears (introducing backlash) and modified bespoke gears (for belts and motors)
+- Transmission is uing GT2 belts, standard LEGO Technic gears replaced with bespoke designed and 3d-printed parts (to minimise backlash)
 - Interchangeable gripper; pilot with 2-finger gripper (SG90 servo for actuation)
 
 Hardware
