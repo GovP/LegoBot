@@ -17,5 +17,4 @@ Hardware
 - 2MP camera for 2D computer vision
 
 Software
-- ROS1 for primary control
 - OpenCV for vision processing
